@@ -1,2 +1,0 @@
-reset test
-add line
